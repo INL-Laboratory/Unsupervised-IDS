@@ -1,2 +1,2 @@
 # Unsupervised-IDS
-Experiments code of paper "A Deep Learning Framework for Unsupervised Adaptive Multi-Agent Intrusion Detectors."
+The code for the experiments of the paper "A Deep Learning Framework for Unsupervised Adaptive Multi-Agent Intrusion Detectors."
